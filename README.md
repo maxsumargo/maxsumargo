@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maxsumargo
 - 👀 I’m interested in food & culture / mixology
 - 🌱 I’m currently doing my MBA and learning to be a full-stack developer
-- 💞️ I’m looking to collaborate on projects in Fintech
+- 💞️ I’m looking to collaborate on projects in Fintech or life-hack applications
 - 📫 How to reach me maximillion1002-at-hotmail.com
 
 <!---
